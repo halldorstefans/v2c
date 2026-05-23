@@ -2,6 +2,8 @@
 
 A project to learn and understand modern Service-Oriented Architecture (SOA) implementation for vehicle systems, featuring multiple interconnected services for vehicle data management and control.
 
+<img width="1715" height="935" alt="sdv_cloud_dash" src="https://github.com/user-attachments/assets/4ae99ef5-a0bb-4ddb-a796-7930252c1aa3" />
+
 ## System Overview
 
 This project implements a modern automotive software architecture with the following components:
