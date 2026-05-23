@@ -1,4 +1,4 @@
-# Learning Service-Oriented Architecture (SOA) in Automotive
+# Vehicle-to-Cloud Service Mock
 
 A project to learn and understand modern Service-Oriented Architecture (SOA) implementation for vehicle systems, featuring multiple interconnected services for vehicle data management and control.
 
